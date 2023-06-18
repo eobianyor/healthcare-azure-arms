@@ -1,6 +1,7 @@
 name: workflow to deploy an ARM Template to a resource group
 on: push
 
+
 env:  
   AZURE_RESOURCE_GROUP_1: SJEHHC-RG01   # set this to your Azure Resource group's name  
   AZURE_RESOURCE_GROUP_2: SJEHHC-RG02  # set this to your Azure Resource group's name
