@@ -8,7 +8,7 @@
 ATTENTION: User access must be confirmed for modifying repository secrets. If you are unable to do so, please follow the instruciton of Deploy Azure ARM Templates via PowerShell terminal in Azure Cloud Shell.  
 
 4. Enter the following values and then select Add secret:
-- Name: Enter AZURE_CREDENTIALS.
+- Name: Enter AZURE_CREDENTIALS. 
 - Secret: Paste the JSON output that you copied earlier.
 
 ATTENTION: If the secret is already exist, update the existing secret with the latest JSON output.
